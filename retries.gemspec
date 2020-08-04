@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
 
   # For running the tests
   gem.add_development_dependency "minitest", "~> 5.0"
-  gem.add_development_dependency "rake", "~> 10.0"
+  gem.add_development_dependency "rake", "~> 13.0"
   gem.add_development_dependency "rr", "~> 1.1"
 
   # For generating the documentation
